@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/aerem", "destination": "/", "permanent": false },
+    { "source": "/netzero", "destination": "/", "permanent": false }
+  ]
+}
